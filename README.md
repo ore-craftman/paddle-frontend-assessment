@@ -1,7 +1,7 @@
 ### Peddle Tech Frontend Assessment
 [Click here to view live version of the site](https://peddle-tech.vercel.app)
 
-### To Run Setup Application Locally
+### To Setup and Run Application Locally
 - Ensure you have yarn 1.22.18 installed on your local machine (i.e npm install --global yarn if you have node installed)
 - cd to your prefered directory
 - Run git clone https://github.com/ore-craftman/paddle-frontend-assessment.git
