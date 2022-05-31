@@ -3,10 +3,10 @@
 
 ### To Setup and Run Application Locally
 - Ensure you have yarn 1.22.18 installed on your local machine (i.e npm install --global yarn if you have node installed)
-- cd to your prefered directory
+- cd to your preferred directory
 - Run git clone https://github.com/ore-craftman/paddle-frontend-assessment.git
 - cd to the cloned directory
-- Run yarn init to install all dependecies then run yarn run dev to start the development server
+- Run yarn init to install all dependencies then run yarn run dev to start the development server
 - Navigate to [http://localhost:3000/](http://localhost:3000/) using a web browser to view the site.
 
 ### Technologies Used
